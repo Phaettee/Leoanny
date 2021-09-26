@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_6EYKEmclb0m_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Pirate Wars by Leoanny De La Cruz</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Engagement in Online Courses</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Pirate_Wars_by_Leoanny_De_La_Cruz_ORG">
+    <organization identifier="Pirate_Wars_by_Leoanny_De_La_Cruz_ORG">
+      <title>Pirate Wars by Leoanny De La Cruz</title>
+      <item identifier="pirate_wars_quiz_game_SCO" isvisible="true" identifierref="__6EYKEmclb0m_course_id_RES">
+        <title>pirate wars quiz game</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6EYKEmclb0m_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6VnsePoui4K_X_51_DX510_DY510_CX258_CY121.png" />
+      <file href="mobile/6QAJQiUrvFX_51_DX510_DY510_CX258_CY121.png" />
+      <file href="story_content/6pTG073VmBs_44100_56_0.mp3" />
+      <file href="mobile/6fqaJpjgYwF_51_DX1054_DY1054_CX760_CY322.png" />
+      <file href="mobile/5xqhPRBO8xC_51_DX294_DY294_CX219_CY148.png" />
+      <file href="mobile/5xqhPRBO8xC_X_51_DX294_DY294_CX219_CY148.png" />
+      <file href="mobile/6Tf58WPVHrG_51_DX1588_DY1588_CX1189_CY361.png" />
+      <file href="story_content/65tnp6XnDwa_44100_56_0.mp3" />
+      <file href="mobile/6LsoSLQxiMc_51_DX1510_DY1510_CX755_CY523.png" />
+      <file href="mobile/61i2Ow1eon7_51_DX126_DY126_CX94_CY94.gif" />
+      <file href="mobile/6Tf58WPVHrG_51_DX1588_DY1588_CX632_CY192.png" />
+      <file href="story_content/5hQYhqGuxeY_44100_56_0.mp3" />
+      <file href="mobile/5tRA9GMRgLh_51_DX1456_DY1456_CX1146_CY340.jpg" />
+      <file href="story_content/6ADA8yiYLqx_44100_56_0.mp3" />
+      <file href="mobile/69i8ukV58X6_51_DX248_DY248_CX124_CY124.png" />
+      <file href="mobile/6K7iWgqHbwj_51_DX126_DY126_CX94_CY94.png" />
+      <file href="mobile/6fknuaJwlM9_51_DX1576_DY1576_CX1105_CY679.jpg" />
+      <file href="mobile/5mubkV0QFoq_51_DX524_DY524_CX393_CY354.png" />
+      <file href="mobile/6af9xlFyP2p_X_51_DX570_DY570_CX427_CY342.png" />
+      <file href="story_content/6fVLDUUCTnh_44100_56_0.mp3" />
+      <file href="mobile/5r7VfKGUQR2_51_DX144_DY144_CX108_CY108.gif" />
+      <file href="story_content/6H31Ib8wrTc_44100_56_0.mp3" />
+      <file href="story_content/6RqAOp9Er9E_44100_56_0.mp3" />
+      <file href="story_content/6NUhCkT54Sp_44100_56_0.mp3" />
+      <file href="story_content/6kuSED1vkJ7_44100_56_0.mp3" />
+      <file href="story_content/5XvW4RLxSt8_44100_56_0.mp3" />
+      <file href="mobile/6U3Jhp5E0Sh_51_DX160_DY160_CX96_CY119.png" />
+      <file href="mobile/6DSJac1d0Y6_51_DX248_DY248_CX124_CY124.png" />
+      <file href="story_content/5yk3xAYlDoc_44100_56_0.mp3" />
+      <file href="story_content/6VPAlUF4R5v_44100_56_0.mp3" />
+      <file href="story_content/5pTnO6Rgke1_44100_56_0.mp3" />
+      <file href="story_content/5yQHkdVMAGM_44100_56_0.mp3" />
+      <file href="story_content/6ZYeRDzoZdL_44100_56_0.mp3" />
+      <file href="story_content/610XYBMAIkZ_44100_56_0.mp3" />
+      <file href="story_content/6CeH7WWfCsM_44100_56_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5ahnE93Ss7i.jpg" />
+      <file href="mobile/Shape6gYF9NkG3JH.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5n1wAri0dw3.js" />
+      <file href="html5/data/js/5XFlfGFz25n.js" />
+      <file href="html5/data/js/6QVqJ0sj5Ae.js" />
+      <file href="html5/data/js/6TGQchQAG5H.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
